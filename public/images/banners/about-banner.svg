@@ -1,0 +1,41 @@
+<svg viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Food Junction about us banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4A0E0E"/>
+      <stop offset="45%" stop-color="#7A1B1B"/>
+      <stop offset="100%" stop-color="#C8562B"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="80%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#F4C542" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#F4C542" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grain" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2.4" cy="2.4" r="1.6" fill="#FBF3E3" opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <rect width="1600" height="420" fill="url(#glow)"/>
+  <rect width="1600" height="420" fill="url(#grain)"/>
+
+  
+      <circle cx="1360" cy="90" r="150" fill="#FBF3E3" opacity="0.14"/>
+      <circle cx="1360" cy="90" r="129.0" fill="none" stroke="#FBF3E3" stroke-opacity="0.26" stroke-width="3"/>
+      <circle cx="1401.2" cy="18.6" r="21.0" fill="#FBF3E3" opacity="0.24000000000000002"/><circle cx="1442.5" cy="90.0" r="21.0" fill="#FBF3E3" opacity="0.24000000000000002"/><circle cx="1401.2" cy="161.4" r="21.0" fill="#FBF3E3" opacity="0.24000000000000002"/><circle cx="1318.8" cy="161.4" r="21.0" fill="#FBF3E3" opacity="0.24000000000000002"/><circle cx="1277.5" cy="90.0" r="21.0" fill="#FBF3E3" opacity="0.24000000000000002"/><circle cx="1318.8" cy="18.6" r="21.0" fill="#FBF3E3" opacity="0.24000000000000002"/>
+      <circle cx="1360" cy="90" r="45.0" fill="#FBF3E3" opacity="0.22000000000000003"/>
+    
+  
+      <circle cx="120" cy="380" r="190" fill="#FBF3E3" opacity="0.1"/>
+      <circle cx="120" cy="380" r="163.4" fill="none" stroke="#FBF3E3" stroke-opacity="0.22" stroke-width="3"/>
+      <circle cx="172.3" cy="289.5" r="26.6" fill="#FBF3E3" opacity="0.2"/><circle cx="224.5" cy="380.0" r="26.6" fill="#FBF3E3" opacity="0.2"/><circle cx="172.3" cy="470.5" r="26.6" fill="#FBF3E3" opacity="0.2"/><circle cx="67.8" cy="470.5" r="26.6" fill="#FBF3E3" opacity="0.2"/><circle cx="15.5" cy="380.0" r="26.6" fill="#FBF3E3" opacity="0.2"/><circle cx="67.7" cy="289.5" r="26.6" fill="#FBF3E3" opacity="0.2"/>
+      <circle cx="120" cy="380" r="57.0" fill="#FBF3E3" opacity="0.18"/>
+    
+  
+      <circle cx="1500" cy="400" r="110" fill="#FBF3E3" opacity="0.12"/>
+      <circle cx="1500" cy="400" r="94.6" fill="none" stroke="#FBF3E3" stroke-opacity="0.24" stroke-width="3"/>
+      <circle cx="1530.2" cy="347.6" r="15.4" fill="#FBF3E3" opacity="0.22"/><circle cx="1560.5" cy="400.0" r="15.4" fill="#FBF3E3" opacity="0.22"/><circle cx="1530.2" cy="452.4" r="15.4" fill="#FBF3E3" opacity="0.22"/><circle cx="1469.8" cy="452.4" r="15.4" fill="#FBF3E3" opacity="0.22"/><circle cx="1439.5" cy="400.0" r="15.4" fill="#FBF3E3" opacity="0.22"/><circle cx="1469.8" cy="347.6" r="15.4" fill="#FBF3E3" opacity="0.22"/>
+      <circle cx="1500" cy="400" r="33.0" fill="#FBF3E3" opacity="0.2"/>
+    
+
+  <rect x="0" y="0" width="1600" height="10" fill="#E8A317"/>
+  <rect x="0" y="410" width="1600" height="10" fill="#E8A317"/>
+</svg>

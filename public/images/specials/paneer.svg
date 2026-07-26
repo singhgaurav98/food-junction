@@ -1,0 +1,29 @@
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img">
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="700" y2="480" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E8A317"/>
+      <stop offset="55%" stop-color="#7A1B1B"/>
+      <stop offset="100%" stop-color="#7A1B1B"/>
+    </linearGradient>
+    <radialGradient id="plate" cx="50%" cy="42%" r="55%">
+      <stop offset="0%" stop-color="#FBF3E3"/>
+      <stop offset="72%" stop-color="#FBEFD2"/>
+      <stop offset="100%" stop-color="#F4C542"/>
+    </radialGradient>
+    <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="2.4" fill="#FBF3E3" opacity="0.10"/>
+    </pattern>
+  </defs>
+  <rect width="700" height="480" fill="url(#cardbg)"/>
+  <rect width="700" height="480" fill="url(#dots)"/>
+  <circle cx="350" cy="205" r="150" fill="#571212" opacity="0.16"/>
+  <ellipse cx="350" cy="230" rx="168" ry="150" fill="url(#plate)"/>
+  <ellipse cx="350" cy="230" rx="168" ry="150" fill="none" stroke="#FBF3E3" stroke-opacity="0.7" stroke-width="5"/>
+  <ellipse cx="350" cy="228" rx="128" ry="112" fill="none" stroke="#7A1B1B" stroke-opacity="0.35" stroke-width="3"/>
+  <g transform="translate(250,128) scale(2.6)">
+    <g transform="translate(0,0) scale(1.0)"><path d="M-38 6 Q-38 34 0 34 Q38 34 38 6 Z" fill="#7A1B1B" opacity="0.15"/><path d="M-40 0 Q-40 32 0 32 Q40 32 40 0 Z" fill="none" stroke="#5A1616" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="0" cy="0" rx="40" ry="10" fill="#E8A317" stroke="#5A1616" stroke-width="5"/><ellipse cx="0" cy="-1" rx="30" ry="6" fill="#C8562B" opacity="0.55"/><g stroke="#5A1616" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.55"><path d="M-14 -20c-6-9 6-11 0-22"/><path d="M2 -18c-6-9 6-11 0-22"/><path d="M18 -20c-6-9 6-11 0-22"/></g></g>
+  </g>
+  <rect x="0" y="404" width="700" height="76" fill="#571212" opacity="0.85"/>
+  <text x="30" y="450" font-size="30" font-weight="700" fill="#FBF3E3" font-family="Georgia, 'Noto Serif Devanagari', serif">Paneer Butter Masala</text>
+  <text x="670" y="450" font-size="24" fill="#F4C542" text-anchor="end" font-family="Georgia, 'Noto Serif Devanagari', serif">पनीर बटर मसाला</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg viewBox="0 0 700 480" xmlns="http://www.w3.org/2000/svg" role="img">
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="700" y2="480" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E8A317"/>
+      <stop offset="55%" stop-color="#E8A317"/>
+      <stop offset="100%" stop-color="#7A1B1B"/>
+    </linearGradient>
+    <radialGradient id="plate" cx="50%" cy="42%" r="55%">
+      <stop offset="0%" stop-color="#FBF3E3"/>
+      <stop offset="72%" stop-color="#FBEFD2"/>
+      <stop offset="100%" stop-color="#F4C542"/>
+    </radialGradient>
+    <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="2.4" fill="#FBF3E3" opacity="0.10"/>
+    </pattern>
+  </defs>
+  <rect width="700" height="480" fill="url(#cardbg)"/>
+  <rect width="700" height="480" fill="url(#dots)"/>
+  <circle cx="350" cy="205" r="150" fill="#571212" opacity="0.16"/>
+  <ellipse cx="350" cy="230" rx="168" ry="150" fill="url(#plate)"/>
+  <ellipse cx="350" cy="230" rx="168" ry="150" fill="none" stroke="#FBF3E3" stroke-opacity="0.7" stroke-width="5"/>
+  <ellipse cx="350" cy="228" rx="128" ry="112" fill="none" stroke="#E8A317" stroke-opacity="0.35" stroke-width="3"/>
+  <g transform="translate(250,128) scale(2.6)">
+    <g transform="translate(0,0)">
+      <ellipse cx="0" cy="18" rx="38" ry="11" fill="#C8562B" stroke="#5A1616" stroke-width="5"/>
+      <ellipse cx="0" cy="6" rx="38" ry="11" fill="#E8A317" stroke="#5A1616" stroke-width="5"/>
+      <ellipse cx="0" cy="-6" rx="38" ry="11" fill="#F4C542" stroke="#5A1616" stroke-width="5"/>
+      <path d="M-20 -8c6 4 14 4 20 0" stroke="#5A1616" stroke-width="2.5" fill="none" opacity="0.45" stroke-linecap="round"/>
+      <path d="M-4 -10c6 4 14 4 20 0" stroke="#5A1616" stroke-width="2.5" fill="none" opacity="0.45" stroke-linecap="round"/>
+    </g>
+  </g>
+  <rect x="0" y="404" width="700" height="76" fill="#571212" opacity="0.85"/>
+  <text x="30" y="450" font-size="30" font-weight="700" fill="#FBF3E3" font-family="Georgia, 'Noto Serif Devanagari', serif">Butter Naan</text>
+  <text x="670" y="450" font-size="24" fill="#F4C542" text-anchor="end" font-family="Georgia, 'Noto Serif Devanagari', serif">बटर नान</text>
+</svg>
